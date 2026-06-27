@@ -1,5 +1,5 @@
 
-![GymPoint](https://raw.githubusercontent.com/lcelso/gympoint/master/backend/src/app/views/emails/logo.png)
+![G.MASH-AI-STUDIO](https://raw.githubusercontent.com/lcelso/gympoint/master/backend/src/app/views/emails/logo.png)
 
 # GYMPOINT
 Este é um desafio proposto criar uma aplicação backend/frontend/mobile para uma academia.
